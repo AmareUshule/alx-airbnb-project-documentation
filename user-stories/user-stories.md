@@ -1,0 +1,5 @@
+"- As a user, I want to register an account so that I can list my properties." 
+"- As a user, I want to browse available properties so that I can choose a place to stay." 
+"- As a user, I want to book a property so that I can reserve it for my stay." 
+"- As a user, I want to manage my bookings so that I can view or cancel them." 
+"- As an admin, I want to approve property listings so that only verified properties are available." 
